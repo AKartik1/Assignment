@@ -1,0 +1,4 @@
+event_date,platform,account_id,campaign_id,campaign_name,campaign_status,billing_status,country_code,device_type,currency,impressions,clicks,conversions,ad_spend,revenue,snapshot_ts,load_batch_id
+2026-03-18,Google,AC1001,CMP100,Summer Sale,ACTIVE,Billable,IN,mobile,INR,120000,5400,210,18450.75,39200.00,2026-03-19 01:10:00,BATCH_001
+18/03/2026,facebook,AC1002,CMP200,Electronics,ACTIVE,Billable,IN,desktop,INR,98000,5100,95,22500.00,17100.00,2026-03-19 01:12:00,BATCH_001
+2026/03/18,IG,AC1003,CMP300,Fashion,PAUSED,Billable,AE,mobile,AED,87000,4200,84,14900.00,16200.00,2026-03-19 01:15:00,BATCH_001
